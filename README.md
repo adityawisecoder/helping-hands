@@ -6,7 +6,7 @@
 ## Features📑
 - Smooth, quick and secure process
 - Send invoice to donar via email after payment
-- Deployed and live
+- Simple, clean UI
 
 </br>
 
